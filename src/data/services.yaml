@@ -1,0 +1,19 @@
+services:
+  - name: Consultoria em Agronegócio, Lavoura e Pecuária
+    description: >
+      Oferecemos suporte especializado, avaliação detalhada e aconselhamento para propriedades rurais.
+    details:
+      - Avaliação de Estruturas Rurais: Análise completa das infraestruturas existentes para identificar pontos fortes e áreas de melhoria.
+      - Possibilidades de Melhorias: Recomendação de estratégias e técnicas para otimizar a produção e eficiência da propriedade.
+      - Projetos de Melhorias: Desenvolvimento de projetos personalizados para implementar as melhorias sugeridas.
+      - Suporte Técnico na Seleção de Lavoura: Assistência na escolha das culturas mais adequadas para a região e tipo de solo.
+      - Análises Prévias de Solo: Realização de testes e análises para determinar a qualidade e composição do solo.
+      - Disponibilidade Hídrica e Recursos: Avaliação da disponibilidade e gestão eficiente dos recursos hídricos.
+  - name: Serviço de Coleta de Amostras e Análise de Solo
+    description: >
+      Oferecemos um serviço completo de coleta e análise de solo para garantir a melhor produtividade agrícola.
+    details:
+      - Coleta Manual ou Mecanizada: Realizamos a coleta de amostras de solo utilizando técnicas manuais ou mecanizadas, conforme a necessidade do cliente.
+      - Análise de Solo: Exames detalhados para identificar nutrientes, pH, textura e outras características importantes do solo.
+      - Relatórios Detalhados: Fornecimento de relatórios precisos e compreensíveis para apoiar a tomada de decisão no manejo do solo.
+  ...
