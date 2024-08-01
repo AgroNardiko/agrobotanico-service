@@ -1,0 +1,3 @@
+[build]
+  publish = "public" # Substitua "public" pelo diretório correto
+  command = "npm run build" # Substitua pelo comando correto se necessário
